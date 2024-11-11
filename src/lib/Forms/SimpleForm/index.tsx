@@ -4,7 +4,6 @@ import {
   formAtom,
   useForm,
   FieldAtom,
-  Provider,
 } from 'form-atoms';
 
 const nameFormAtom = formAtom({
